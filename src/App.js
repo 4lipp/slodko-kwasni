@@ -1,9 +1,4 @@
-import { Description } from "./components/atoms/Description";
 import { Name } from "./components/atoms/Name";
-import { Background } from "./components/atoms/Background";
-import { Hudzio } from "./components/Hudzio";
-import { Profile } from "./components/molecules/Profile";
-import { Gizmo } from "./components/Gizmo";
 import { Navigation } from "./components/molecules/Navigation";
 import { SectionWork } from "./components/organisms/SectionWork";
 import { SectionAbout } from "./components/organisms/SectionAbout";
